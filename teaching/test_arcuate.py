@@ -22,7 +22,7 @@ from __future__ import annotations
 import pytest
 import torch
 
-from regions.arcuate_t import Arcuate, ArcuateConfig
+from substrate.arcuate_t import Arcuate, ArcuateConfig
 
 
 # =========================================================================
